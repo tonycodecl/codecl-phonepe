@@ -1,4 +1,4 @@
-#Codecl GooglePay
+#Codecl Phonepe
 Installation
 1 - unzip de module in app/code/Cocecl/Phonepe
 2 - enable module: bin/magento module:enable --clear-static-content Codecl_Phonepe
