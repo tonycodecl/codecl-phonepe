@@ -1,5 +1,5 @@
 {
-    "name": "codecl/module-phonepe",
+    "name": "codecl/phonepe",
     "description": "Accept payments using Codecl Phonepe payment gateway",
     "type": "magento2-module",
     "version": "1.0.0",
